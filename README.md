@@ -28,7 +28,7 @@ The purpose of this assignment is to practice creating interactive visualization
       - If the user hovers over a point, that point should highlight. 
       - If the user clicks on a point, that point should be given a border, and the point's coordinates should show in the right column of the webpage. 
       - If the user clicks on a point that already has a border, the point's border should disappear as should the point's coordinates in the right column of the webpage. 
-   - In the right column of your webpage, allow the user to input coordinates for a new point they want to add to the visualization. (You may restrict inputs to between 1 and 9 so that you do not need to change your visualization scale from earlier.) Once the user submits their coordiantes, add the appropriate point to your visualization. This point should have all the same event handling capabilities as your existing points.                  
+   - In the right column of your webpage, allow the user to input coordinates for a new point they want to add to the visualization. You may restrict inputs to integers between 1 and 9 so that you do not need to change your visualization scale from earlier. You can be creative in how you solicit points from the user, but if you need an idea for how to start, try emulating the reference solution. Once the user submits their coordiantes, add the appropriate point to your visualization. This point should have all the same event handling capabilities as your existing points.                  
    - Add a centered header to the bottom of your page. The header should say "Acknowledgements" in font smaller than the font used for your first header. Under this header, add a div. Inside of this div add a bulleted list of the resources you used to complete this assignment.  
 
 ## Resources 
@@ -50,6 +50,8 @@ The purpose of this assignment is to practice creating interactive visualization
 * [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 * [SVG](https://www.w3schools.com/graphics/svg_intro.asp)
+
+* [Inputs] (https://www.w3schools.com/js/js_input_examples.asp)
 
 ## Data Citations 
 
